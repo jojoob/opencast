@@ -10,7 +10,7 @@
     "axios": "^0.21.1",
     "bootstrap": "^5.1.0",
     "i18next": "^20.4.0",
-    "i18next-browser-languagedetector": "^6.1.2",
+    "i18next-browser-languagedetector": "^6.1.4",
     "iframe-resizer": "^4.3.2",
     "query-string": "^7.0.1",
     "react": "^17.0.2",
